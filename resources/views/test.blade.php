@@ -1,0 +1,1 @@
+<h1>Welcome to multi-tenancy app</h1>
